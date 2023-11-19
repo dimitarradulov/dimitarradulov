@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dimitarradulov" alt="dimitarradulov" /></a> </p>
 
-- 🔭 I’m currently working on [youQuote-v2](https://github.com/dimitarradulov/youquote-v2)
-
 - 🌱 I’m currently learning **more about Angular and TypeScript**
 
 - 💞️ I’m looking to collaborate on interesting and challenging projects
